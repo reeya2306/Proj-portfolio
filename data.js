@@ -12,11 +12,11 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Reeya Sansare",
+  firstName: "Reeya",   // Used in the hero greeting
+  lastName: "Sansare",  // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
-  resumeLink: "#",        // Link to your resume (Google Drive, etc.)
+  resumeLink: "#",      // Link to your resume (Google Drive, etc.)
 
   // ----------------------------------------------------------
   // 📖 ABOUT ME
@@ -125,7 +125,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   //                      email, codepen, devto, medium, youtube
   // Use the "icon" field to choose the SVG icon displayed.
   contact: {
-    email: "chinmayingle26@gmail.com",
+    email: "reeya.sansare@gmail.com",
     socialLinks: [
       {
         platform: "GitHub",
@@ -156,7 +156,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Accent color is used for buttons, highlights, and links.
   // You can use any valid CSS color value.
   theme: {
-    accentColor: "#c8ff00",       // Lime green accent (inspired by Lando Norris!)
-    accentColorDark: "#a8d900",   // Darker shade for hover states
+    accentColor: "#1d0a88",       // Lime green accent (inspired by Lando Norris!)
+    accentColorDark: "#1b075494",   // Darker shade for hover states
   },
 };
